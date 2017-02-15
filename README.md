@@ -4,6 +4,8 @@ Predicting if a human forecast override is better than an automatically generate
 forecast on generated synthetic datasets.
 These forecasts are often used to help decide how much quantity to buy for any item sold on retail store from vendors/suppliers.
 
+Data is available in at: http://bit.ly/2l8piMK
+
 # Columns:
 
 User: user id
